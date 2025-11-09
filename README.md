@@ -57,10 +57,6 @@
 
 ---
 
-### 🧩 Fun Zone  
-> “Code. Create. Coffee. Repeat.” ☕  
-> I believe in crafting experiences, not just software.
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anantha-k&theme=dracula&no-frame=true&margin-w=10" alt="Trophies" />
 </p>
